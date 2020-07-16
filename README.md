@@ -1,4 +1,4 @@
-# Housing_pricce_in_Paris
+# Housing_price_in_Paris
 Classification of the housing price in Paris
 
 Paris, capital of France, is one of the largest metropolises in the world with a population of 2,148,271 habitants (official estimate, 1 January 2020) in an area of 105 square kilometers (41 square miles) [[2](https://en.wikipedia.org/wiki/Paris)]. Paris ranks as [4th most expensive real estate city](https://parispropertygroup.com/blog/2015/paris-ranks-4th-expensive-city-buy-real-estate/) in the world from the data of UK branch of the American commercial real estate company CBRE [[3](https://parispropertygroup.com/blog/2015/paris-ranks-4th-expensive-city-buy-real-estate/)]. Because I have been in Paris for more than 5 years and I like to live in this beautiful city with a lower cost, it is very useful for me and the people like me to know the local prices of renting or buying a house in Paris. This information is also useful for potential investors of property in Paris. That is my motivation to create a map and information chart to present the real estate index in Paris and the density of venue in each district.
